@@ -1,0 +1,8 @@
+hello you！
+git init
+git add .
+git commit -m "first demo"
+git remote add origin git@github.com:mahao007/book.git
+git push origin master
+
+all before create repo in github web
