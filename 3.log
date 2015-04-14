@@ -3,3 +3,4 @@
 3. 未命名分支为匿名分支
 
 4. git branch branch_name commit_num新建分支
+4-2. git chechout old_branch则此次commit提交将丢失
